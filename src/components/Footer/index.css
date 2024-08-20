@@ -1,0 +1,46 @@
+.main-footer {
+    background-color: #f1f1f1;
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    padding: 20px 0;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.col {
+    flex: 1;
+    min-width: 200px;
+}
+
+.list-unstyled {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.col h4 {
+    font-size: 16px;
+}
+
+.list-unstyled li {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.list-unstyled a {
+    text-decoration: none;
+    color: black;
+}
