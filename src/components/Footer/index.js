@@ -20,7 +20,8 @@ const Footer = () => {
                     <div className="col">
                         <h4>Contact Info</h4>
                         <ul className="list-unstyled">
-                            <li>Address: 518 West Side Ave, Jersey City, NJ 07304</li>
+                            <li>Address: 518 West Side Ave,
+                                 <br />Jersey City, NJ 07304</li>
                             <li>Phone Number: 201-200-0015</li>
                         </ul>
                     </div>
