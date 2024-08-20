@@ -1,0 +1,44 @@
+.nav-bar {
+    background-image: linear-gradient(180deg, rgb(233, 238, 83), orange, rgb(238, 44, 5));
+    height: 75px;
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+  }
+  
+  nav {
+    float: right;
+    margin-top: 13px;
+  }
+
+  .name {
+    font-size: 55px;
+    font-family: cursive;
+    color: yellow;
+    margin-left: 15px;
+    text-shadow: 2px 2px black;
+  }
+
+  .salon {
+    font-size: 40px;
+    color: white;
+    font-family: "Anton", sans-serif;
+    text-shadow: 2px 2px black;
+  }
+
+  .nav-bar nav a {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding-left: 14px;
+    padding-right: 16px;
+    text-decoration: none;
+    text-shadow: 2px 2px black;
+    font-family: "Anton", sans-serif;
+  }
+  
+  a:hover {
+    background-color: #333;
+  }
