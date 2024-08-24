@@ -4,7 +4,7 @@ import salonPhoto from './salonPhoto.HEIC'
 const Home = () => {
     return (
         <div className="home">
-            <img src={salonPhoto}></img>
+            <img src={salonPhoto} alt="Lana salon"></img>
             <h1>Welcome!</h1>
             <p>
                 Welcome to Lana's Unisex Hair Salon. Located in Jersey City, NJ, Lana's Unisex Hair Salon  
