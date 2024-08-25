@@ -2,7 +2,7 @@
 This website was built to develop my skills with React, and help out a local hair salon that did not have an official website.
 
 ## Project Description
-This project is a static webpage that displays updated information about the salon such as location, contact info, and services + pricing. It also shows previous reviews left by clients on Yelp and Google Reviews. It was built solely using React as this is a static webpage.
+This project is a static webpage that displays updated information about the salon such as location, contact info, services + pricing, and a photo to show the newly renovated salon. It also shows previous reviews left by clients on Yelp and Google Reviews. It was built solely using React as this is a static webpage.
 
 ## Installation
 1. Open the terminal.
