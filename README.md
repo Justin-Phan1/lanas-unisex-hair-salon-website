@@ -7,10 +7,10 @@ This project is a static webpage that displays updated information about the sal
 ## Installation
 1. Clone the repository.
 2. Navigate to the project's directory using cd lanas-unisex-hair-salon-website
-3. Install dependencies using ```bash
+3. Install dependencies using ```
                               npm install
                               ```
-4. Start the app using ```bash
+4. Start the app using ```
                        npm start
                        ```
 5. Open a browser and search http://localhost:3000.
