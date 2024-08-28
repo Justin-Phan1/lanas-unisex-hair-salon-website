@@ -27,6 +27,15 @@
     font-size: 40px;
     color: gold;
     text-shadow: 2px 2px black;
+    animation: fadeInDown 1s 0.25s backwards;
+}
+
+.title p {
+    animation: fadeInDown 1s 0.35s backwards;
+}
+
+.slider-container {
+    animation: fadeIn 1s 0.45s backwards;
 }
 
 .slider-container .content .text {
@@ -87,4 +96,3 @@
 .splide__pagination__page.is-active {
     background-color: #ff6f59;
 }
-
