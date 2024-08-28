@@ -6,7 +6,7 @@ const Home = () => {
         <div className="home">
             <img src={salonPhoto} alt="Lana salon"></img>
             <h1>Welcome!</h1>
-            <p>
+            <p className="home-description">
                 Welcome to Lana's Unisex Hair Salon. Located in Jersey City, NJ, Lana's Unisex Hair Salon  
                 has been serving 
                 <br/>
@@ -14,7 +14,9 @@ const Home = () => {
                 <br /> 
                 <br />
                 We operate on a walk-in basis only and do not accept appointments.
-                <h3>Salon Address</h3>
+            </p>
+            <h3>Salon Address</h3>
+            <p className="home-info"> 
                 518 West Side Ave, Jersey City, NJ 07304
                 <br />
                 <h3>Phone Number</h3> 
@@ -34,6 +36,19 @@ const Home = () => {
                 Saturday: 9am-6pm
                 <br />
                 Sunday: CLOSED
+                <br />
+                <span className="holiday-hours">
+                    <h4>Holiday Hours</h4>
+                    New Years: CLOSED
+                    <br/>
+                    Memorial Day: CLOSED
+                    <br />
+                    Labor Day: CLOSED
+                    <br /> 
+                    Thanksgiving: CLOSED
+                    <br />
+                    Christmas: CLOSED
+                </span>
             </p>
         </div>
     )
