@@ -4,6 +4,11 @@
     width: 480px;
     height: 525px;
     margin-right: 50px;
+    margin-top: 20px;
+}
+
+.home {
+    font-family: Helvetica, sans-serif;
 }
 
 .home h1 {
@@ -11,13 +16,34 @@
     text-shadow: 2px 2px black;
     font-size: 40px;
     font-family: Helvetica, sans-serif;
+    animation: fadeInDown 1s 0.25s backwards;
+}
+
+.home-description {
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;
+    animation: fadeInDown 1s 0.35s backwards;
 }
 
 .home h3 {
     font-size: 24.5px;
+    color: blue;
+    animation: fadeInDown 1s 0.45s backwards;
 }
 
-.home p {
+.home h4 {
+    font-size: 24.5px;
+    color: blue;
+    animation: fadeInDown 1s 0.55s backwards;
+}
+
+.home-info{
     font-size: 16px;
     font-family: Helvetica, sans-serif;
+    animation: fadeIn 1s 0.65s backwards;
+}
+
+.holiday-hours { 
+    display: inline-block;
+    animation: fadeIn 1s 0.75s backwards;
 }
