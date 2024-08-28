@@ -6,21 +6,25 @@
     font-size: 40px;
     color: gold;
     text-shadow: 2px 2px black;
+    animation: fadeInDown 1s 0.25s backwards;
 }
 
 .services p {
     font-size: 18px;
     align-items: center;
     justify-content: center;
+    animation: fadeInDown 1s 0.35s backwards;
 }
 
 .services h3{
     font-size: 25px;
+    color: blue;
+    animation: fadeIn 1s 0.5s backwards;
 }
 
 .services li {
     font-size: 16px;
     list-style-type: none;
-
+    animation: fadeIn 1s 0.6s backwards;
 }
 
