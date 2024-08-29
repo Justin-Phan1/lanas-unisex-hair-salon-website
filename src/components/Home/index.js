@@ -1,5 +1,5 @@
 import './index.css'
-import salonPhoto from './salonPhoto.HEIC'
+import salonPhoto from './salon-photo.png'
 
 const Home = () => {
     return (
