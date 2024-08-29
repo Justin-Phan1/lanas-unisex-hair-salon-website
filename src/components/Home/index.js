@@ -43,6 +43,8 @@ const Home = () => {
                     <br/>
                     Memorial Day: CLOSED
                     <br />
+                    Fourth of July: CLOSED
+                    <br />
                     Labor Day: CLOSED
                     <br /> 
                     Thanksgiving: CLOSED
