@@ -96,3 +96,13 @@
 .splide__pagination__page.is-active {
     background-color: #ff6f59;
 }
+
+@media screen and (max-width: 1200px) {
+    .splide__arrow--prev {
+        left: -0.5rem;
+    }
+    
+    .splide__arrow--next {
+        right: -0.5rem;
+    }
+}
