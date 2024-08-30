@@ -95,7 +95,6 @@
     .hamburger-icon, .close-icon {
       display: block;
       position: absolute;
-      top: 4px;
       right: 10px;
     }
 
