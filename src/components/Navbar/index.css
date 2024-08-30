@@ -92,9 +92,16 @@
       margin: 0;
     }
 
-    .hamburger-icon, .close-icon {
+    .hamburger-icon {
       display: block;
       position: absolute;
+      right: 10px;
+    }
+
+    .close-icon {
+      display: block;
+      position: absolute;
+      top: 1px;
       right: 10px;
     }
 
